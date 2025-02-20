@@ -1,5 +1,3 @@
-###  **Final README.md for Submission**
-```markdown
 # Property Booking API
 
 ## 🏠 Overview
@@ -135,20 +133,3 @@ npm test
 ```
 > **Note:** This runs a basic test case for creating and retrieving properties.
 
----
-
-## 🎯 Next Steps (Future Improvements)
-- **Add authentication using JWT**
-- **Deploy the API on a cloud platform (Render, Railway, AWS, etc.)**
-- **Implement a frontend UI (React or Next.js)**
-- **Improve error handling and validation**
-
----
-
-### 🎉 **Final Review**
-✅ **Code is well-structured (`models/`, `routes/`, `controllers/`, `config/`)**  
-✅ **README.md includes setup instructions and API documentation**  
-✅ **Basic Jest & Supertest API tests are implemented and passing (`npm test`)**  
-✅ **MongoDB connection is properly configured**  
-
-You’re now fully ready to submit! 🚀🔥 Let me know if you need any last-minute refinements. 😃
