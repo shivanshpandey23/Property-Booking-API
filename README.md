@@ -1,5 +1,3 @@
----
-
 ###  **Final README.md for Submission**
 ```markdown
 # Property Booking API
